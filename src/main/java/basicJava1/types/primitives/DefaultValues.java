@@ -1,4 +1,4 @@
-package basicJava1.tipes.primitives;
+package basicJava1.types.primitives;
 
 public class DefaultValues {
 	public static void main(String[] args) {
